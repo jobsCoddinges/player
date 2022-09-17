@@ -13,10 +13,12 @@ p {
 
 body {
   display: flex;
+  flex-direction: column;
   background-color: #f7f7f7;
   align-items: center;
   justify-content: space-evenly;
   padding-top: 50px;
+  gap: 100px;
 }
 
 .back {
